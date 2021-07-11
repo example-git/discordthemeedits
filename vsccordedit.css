@@ -122,7 +122,8 @@
 }
 
 .titleBar-AC4pGV::after {
-    content: "VSC Cord";
+	text-align: center;
+    content: "Discord";
     color: rgb(8,124,204);
     position: absolute;
     left: 10px;
