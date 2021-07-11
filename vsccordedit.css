@@ -120,14 +120,13 @@
 
 	--brand-experiment: var(--color-brand)
 }
-
 .titleBar-AC4pGV::after {
-    content: "Examplecord
+    content: "Example.Discord";
     color: rgb(255,255,255);
     position: absolute;
       left: 50%;
     margin-top: 6px;
-    font-weight: 700
+    font-weight: 400
 }
 ::selection {
 	background-color: var(--color-brand-lighter);
