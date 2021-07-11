@@ -122,11 +122,10 @@
 }
 
 .titleBar-AC4pGV::after {
-	text-align: center;
-    content: "Discord";
-    color: rgb(8,124,204);
+    content: "Examplecord
+    color: rgb(255,255,255);
     position: absolute;
-    left: 10px;
+      left: 50%;
     margin-top: 6px;
     font-weight: 700
 }
