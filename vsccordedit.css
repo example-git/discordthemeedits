@@ -140,16 +140,6 @@ body,
 .appMount-3lHmkl {
 	background-color: var(--background-tertiary);
 }
-/*Some snippets for looks: Credits BetterDiscord Developers*/
-#sticker-picker-tab {display: none}
-.stickerButton-3OEgwj {display: none}
-.setIdentityLink-1t8Ahd {display: none}
-#private-channels [href="/store"] {display: none}
-.numberBadge-2s8kKX {background-color: #4373c5 !important}
-.tutorialContainer-30WoTp+div {display:none}
-#status-picker {
-    margin-bottom: 5px;
-}
 
 #status-picker > div {
     display: flex;
@@ -216,11 +206,6 @@ body,
 .containerDefault--pIXnN.selected-3LIHYU {
     border-left: 6px solid #4373c5;
 }
-/*remove file button (idk why'd you want that)*/
-.attachWrapper-2TRKBi{  display:none;}
-.numberBadge-2s8kKX {background-color: #4373c5 !important}
-
-
 /* Discord: Modal */
 .bd-modal-wrapper .bd-modal-inner {
 	border: 0;
